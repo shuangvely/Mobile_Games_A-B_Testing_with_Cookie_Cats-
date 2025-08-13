@@ -30,5 +30,4 @@ The goal is to compare **1-day** and **7-day** retention rates between a control
 ---
 
 ## 📈 Key Insights
-- Identified retention patterns and quantified the difference in retention rates between groups.
-- Provided statistically validated conclusions about the A/B test's effect on player engagement.
+
